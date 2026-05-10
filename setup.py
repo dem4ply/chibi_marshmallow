@@ -33,6 +33,6 @@ setup(
     name='chibi_marshmallow',
     packages=find_packages(include=['chibi_marshmallow', 'chibi_marshmallow.*']),
     url='https://github.com/dem4ply/chibi_marshmallow',
-    version='0.0.1',
+    version='1.0.0',
     zip_safe=False,
 )
